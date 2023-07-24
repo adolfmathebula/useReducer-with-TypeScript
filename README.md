@@ -2,7 +2,7 @@
 
 ## Description
 
-This block of code defines a [React](https://react.dev/) component called `ReducerCart` that implements a shopping cart functionality using the [useReducer](https://react.dev/reference/react/useReducer/) hook. The component uses [TypeScript](https://www.typescriptlang.org/) to provide strong typing and enhance code clarity and maintainability.
+This block of [code](https://github.com/adolfmathebula/useReducer-with-TypeScript/blob/main/ReducerCart.tsx) defines a [React](https://react.dev/) component called `ReducerCart` that implements a shopping cart functionality using the [useReducer](https://react.dev/reference/react/useReducer/) hook. The component uses [TypeScript](https://www.typescriptlang.org/) to provide strong typing and enhance code clarity and maintainability.
 
 The `ReducerCart` component manages the state of the shopping cart, which consists of an array of `ProductType` objects representing the products in the cart. The state is initialized with an empty cart using the initialState constant.
 
